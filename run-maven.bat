@@ -1,0 +1,1 @@
+E:\maven\apache-maven-3.8.1-bin\apache-maven-3.8.1\bin\mvn.cmd clean install package
